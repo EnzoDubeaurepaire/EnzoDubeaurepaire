@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php&logoColor=grey&labelColor=%23b19cd9)
 ![Static Badge](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=grey&labelColor=%23b19cd9)
 
-# 📫 How to contact me :
+# 📫 How to contact me
 
 [![Static Badge](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=grey&labelColor=blue)](https://www.linkedin.com/in/enzo-dubeaurepaire-08696429a/)
 
