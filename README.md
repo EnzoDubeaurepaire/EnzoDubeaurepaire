@@ -2,6 +2,7 @@
 
 - 🏫 I'm a first year french student at Epitech Lille
 - 🌱 I’m currently learning React, C and C++
+- 🌐 [My Portfolio](https://enzodubeaurepaire.vercel.app)
 
 # 🖥️ Tech I use
 
