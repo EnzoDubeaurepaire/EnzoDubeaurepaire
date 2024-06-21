@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Enzo
 
 - 🏫 I'm a first year french student at Epitech Lille
-- 🌱 I’m currently learning C, Python and some cybersecurity stuff
+- 🌱 I’m currently learning React, C and C++
 
 # 🖥️ Tech I use
 
