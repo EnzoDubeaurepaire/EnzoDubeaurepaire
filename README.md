@@ -1,26 +1,28 @@
-# 👋 Hi, I’m Enzo
+# 👋 Hi there! I'm Enzo
 
-- 🏫 I'm a first year french student at Epitech Lille
-- 🌱 I’m currently learning React, C and C++
-- 🌐 [My Portfolio](https://enzodubeaurepaire.vercel.app)
+I'm a second-year Computer Science student at [Epitech Lille](https://www.epitech.eu/), currently working as a teaching assistant. I'm passionate about **algorithms**, **artificial intelligence**, and **low-level systems development**.
 
-# 🖥️ Tech I use
+- 💡 Learning Rust, exploring embedded AI
+- 👨‍🏫 Teaching assistant at Epitech Lille
+- 🧠 Obsessed with building performant, elegant, and scalable systems  
+- 🤓 I use Arch, by the way.
 
-![Static Badge](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=C&logoColor=grey&labelColor=pink)
-![Static Badge](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=Python&logoColor=grey&labelColor=pink)
-![Static Badge](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=grey&labelColor=pink)
+---
 
-![Static Badge](https://img.shields.io/badge/gimp-grey?style=for-the-badge&logo=gimp&logoColor=grey&labelColor=lightblue)
-![Static Badge](https://img.shields.io/badge/canva-grey?style=for-the-badge&logo=canva&logoColor=grey&labelColor=lightblue)
-![Static Badge](https://img.shields.io/badge/prezi-grey?style=for-the-badge&logo=prezi&logoColor=grey&labelColor=lightblue)
+## 🛠️ Technologies & Tools
 
-![Static Badge](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5&logoColor=grey&labelColor=%23b19cd9)
-![Static Badge](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php&logoColor=grey&labelColor=%23b19cd9)
-![Static Badge](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=grey&labelColor=%23b19cd9)
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-# 📫 How to contact me
+---
 
-[![Static Badge](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=grey&labelColor=blue)](https://www.linkedin.com/in/enzo-dubeaurepaire-08696429a/)
+## 📫 Get in touch
 
+- 📧 dubeaurepaire.enzo@gmail.com  
+- 🏠 Based in Lille, France  
+- 🤝 Open to collaborations & side projects
 
-Email : enzo.dubeaurepaire@epitech.eu
